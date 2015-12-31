@@ -22,23 +22,23 @@ title: Resumen
 
 # Resumen
 
-Apache Cordova es un marco de desarrollo móvil de código abierto. Permite utilizar las tecnologías estándar web como HTML5, CSS3 y JavaScript para desarrollo multiplataforma, evitando el lenguaje de desarrollo nativo cada plataformas móviles. Aplicaciones ejecutan dentro de envolturas para cada plataforma y dependen de enlaces estándares API para acceder a de cada dispositivo sensores, datos y estado de la red.
+Apache Cordova es un marco de trabajo de código abierto para el desarrollo móvil. Permite utilizar las tecnologías estándar de la web como HTML5, CSS3 y JavaScript para desarrollo multiplataforma, evitando desarrollar en lenguaje nativo para cada plataformas móvil. Las aplicaciones ejecutan dentro de envolturas para cada plataforma y dependen de APIs estandar enlazadas para acceder a los sensores, datos y estado de la red de cada dispositivo.
 
-Apache Cordova se graduó en octubre de 2012 como un proyecto de nivel superior dentro de la Apache Software Foundation (ASF). A través del ASF, futuro desarrollo Cordova asegurará administración abierta del proyecto. Siempre permanecerá libre y de código abierto bajo la licencia Apache, versión 2.0. Visite [cordova.apache.org][1] para obtener más información.
+Apache Cordova se creó en octubre de 2012 como un proyecto de nivel superior dentro de la Apache Software Foundation (ASF). A través del ASF, se asegura la administración abierta del proyecto en el desarrollo a futuro de Cordova. Siempre permanecerá libre y de código abierto bajo la licencia Apache, versión 2.0. Visite [cordova.apache.org][1] para obtener más información.
 
  [1]: http://cordova.apache.org
 
 Usar Apache Cordova si eres:
 
-*   establecen un móvil desarrollador y desea extender una aplicación a través de más de una plataforma, sin tener que reimplementarlo con herramienta y lenguaje de cada plataforma.
+*   un desarrollador mobile y deseas extender una aplicación a través de más de una plataforma, sin tener que reimplementarlo con herramienta y lenguaje de cada plataforma.
 
 *   un desarrollador web y desea implementar una aplicación web que se envasa para su distribución en varias app store portales.
 
-*   un móvil desarrollador interesado en que se mezclan los componentes de la aplicación nativa con un *WebView* (ventana del navegador especial) que puede tener acceso a las API de nivel de dispositivo, o si quiere desarrollar una interfaz plugin entre componentes WebView y nativos.
+*   un desarrollador mobile interesado en que se mezclan los componentes de la aplicación nativa con un *WebView* (ventana del navegador especial) que puede tener acceso a las API de nivel de dispositivo, o si quiere desarrollar una interfaz plugin entre componentes WebView y nativos.
 
 ## Componentes básicos
 
-Apache Cordova aplicaciones se basan en un común `config.xml` archivo que proporciona información acerca de la aplicación y especifica los parámetros que afectan a cómo funciona, como si responde a la orientación cambia de puesto. Este archivo se adhiere a la especificación de [Empaquetado de la aplicación Web][2], *widget*, o de la W3C.
+Las aplicaicones Apache Cordova se basan en un archivo común `config.xml` que proporciona información acerca de la aplicación y especifica los parámetros que afectan a cómo funciona, como si responde a la orientación cambia de puesto. Este archivo se adhiere a la especificación de [Empaquetado de la aplicación Web][2], *widget*, o de la W3C.
 
  [2]: http://www.w3.org/TR/widgets/
 
